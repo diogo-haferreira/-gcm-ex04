@@ -1,8 +1,9 @@
 # gcm-ex04
-# Exercício 4
+# Exercício 5
 # Gestão de COnfiguração
-Exercício 4 de GCM
 
-Autor: Diogo
+## Itens de configuração
 
-#edit branch do guigui didi
+* Requisitos
+* Casos de teste
+* Casos de uso
